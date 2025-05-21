@@ -1,0 +1,1 @@
+<template><footer class="text-center p-4">&copy; 2025 Tu Nombre</footer></template>
